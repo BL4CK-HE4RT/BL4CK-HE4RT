@@ -1,15 +1,15 @@
-[![IMG-20230525-135833.jpg](https://i.postimg.cc/j5Lb7z6F/IMG-20230525-135833.jpg)](https://postimg.cc/Fd58tkBy)
-<h1 align="center">Hi 👋, I'm Sagar hossain</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+[![MasterHead](https://i.postimg.cc/j5Lb7z6F/IMG-20230525-135833.jpg)](https://postimg.cc/Fd58tkBy)
+<h1 align="center">𝗠𝗗 𝗦𝗔𝗚𝗔𝗥 𝗛𝗢𝗦𝗦𝗔𝗜𝗡</h1>
+<h3 align="center">𝗜 𝗔𝗠 𝗙𝗥𝗢𝗠 𝗜𝗡𝗗𝗜𝗔</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar-cyber99&label=Profile%20views&color=0e75b6&style=flat" alt="sagar-cyber99" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sagar_hossain" target="blank"><img src="https://img.shields.io/twitter/follow/sagar_hossain?logo=twitter&style=for-the-badge" alt="sagar_hossain" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/SAGAR-CYBER99](https://github.com/SAGAR-CYBER99)
+- 👨‍💻 𝗔𝗟𝗟 𝗢𝗙 𝗠𝗬 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝗔𝗥𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 𝗔𝗧 [https://github.com/SAGAR-CYBER99](https://github.com/SAGAR-CYBER99)
 
-- 📫 How to reach me **sagarhaque77@gmail.com**
+- 📫 𝗛𝗢𝗪 𝗧𝗢 𝗥𝗘𝗔𝗖𝗛 𝗠𝗘 **sagarhaque77@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
