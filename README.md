@@ -24,6 +24,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-cyber99&show_icons=true&locale=en&layout=compact" alt="sagar-cyber99" /></p>
 
+<img align="middle" alt="Coding" width="800" src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif">
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar-cyber99&show_icons=true&locale=en" alt="sagar-cyber99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-cyber99&" alt="sagar-cyber99" /></p>{{𝗦𝗔𝗚𝗔𝗥}}{{𝗖𝗬𝗕𝗘𝗥}}{{𝗞𝗜𝗡𝗚}}
